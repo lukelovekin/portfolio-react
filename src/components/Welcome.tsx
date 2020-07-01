@@ -10,7 +10,7 @@ export default (): JSX.Element => {
           </div>
           <hr/>
           <div className='col-12'>
-            <p className='lead'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque impedit omnis debitis cum, asperiores natus repellendus blanditiis dicta neque, repudiandae autem ipsa est expedita delectus!</p>
+            <p className='lead'>Alohomora tarantallegra quietus locomotor patronum funnunculus mortis funnunculus wingardium impedimenta incarcerous. Leviosa funnunculus.</p>
           </div>
         </div>
       </div>

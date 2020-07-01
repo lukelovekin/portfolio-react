@@ -8,9 +8,7 @@ export default (): JSX.Element => {
         <div className="row jumbotron">
           <div className="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
             <p className="lead">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
-              dolore, voluptate rem eligendi odio saepe autem consequatur
-              nesciunt. Ea magni ipsum nihil ab eos fuga!
+              Alohomora tarantallegra quietus locomotor patronum funnunculus              mortis funnunculus wingardium impedimenta incarcerous. Leviosa              funnunculus.
             </p>
           </div>
           <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">

@@ -18,7 +18,7 @@ export default (): JSX.Element => {
           <div className="carousel-item active">
             <img src={bg1} className="d-block w-100" alt="..."/>
             <div className="carousel-caption">
-              <h1 className="display-2">First slide label</h1>
+              <h1 className="display-2">BOOTSTRAP</h1>
               <h3>Nulla vitae elit libero, a pharetra augue mollis interdum.</h3>
               <button type="button" className=" btn btn-outline-light btn-med"> CLICKIDY CLICK</button>
               <span> </span>
@@ -28,15 +28,12 @@ export default (): JSX.Element => {
           <div className="carousel-item">
             <img src={bg2} className="d-block w-100" alt="..."/>
             <div className="carousel-caption d-none d-md-block">
-              <h5>Second slide label</h5>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
           </div>
           <div className="carousel-item">
             <img src={bg3} className="d-block w-100" alt="..."/>
             <div className="carousel-caption d-none d-md-block">
-              <h5>Third slide label</h5>
-              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+
             </div>
         </div>
       </div>

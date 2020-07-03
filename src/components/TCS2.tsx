@@ -17,6 +17,7 @@ export default (): JSX.Element => {
                         <img src={pic2} className="img-fluid" alt="" />
                     </div>
                 </div>
+                <hr className="my-4"/>
             </div>
         </>
     )

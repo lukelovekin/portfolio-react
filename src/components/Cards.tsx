@@ -5,6 +5,7 @@ import Pic from "./images/team1.png"
 export default (): JSX.Element => {
     return (
         <>
+        
             <div className="container-fluid padding">
                 <div className="row welcome text-center">
                     <div className='col-12'>
@@ -15,9 +16,9 @@ export default (): JSX.Element => {
             </div>
 
             <div className='container-fluid padding'>
-                <div className='row paddomg'>
+                <div className='row padding'>
                     <div className='col-md-4'>
-                        <div className='card'>
+                        <div className='card shadow p-3 mb-5 bg-white rounded'>
                             <img className='card-img-top' src={Pic} alt=""/>
                             <div className='card-body'>
                                 <h4 className='card-title'>Luke Love
@@ -29,7 +30,7 @@ export default (): JSX.Element => {
                         </div>
                     </div>
                     <div className='col-md-4'>
-                        <div className='card'>
+                        <div className='card shadow p-3 mb-5 bg-white rounded'>
                             <img className='card-img-top' src={Pic} alt="" />
                             <div className='card-body'>
                                 <h4 className='card-title'>Luke Love
@@ -41,7 +42,7 @@ export default (): JSX.Element => {
                         </div>
                     </div>
                     <div className='col-md-4'>
-                        <div className='card'>
+                        <div className='card shadow p-3 mb-5 bg-white rounded'>
                             <img className='card-img-top' src={Pic} alt="" />
                             <div className='card-body'>
                                 <h4 className='card-title'>Luke Love

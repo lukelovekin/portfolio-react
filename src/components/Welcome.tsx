@@ -6,7 +6,7 @@ export default (): JSX.Element => {
       <div className="container-fluid padding ">
         <div className="row welcome text-center">
           <div className="col-12 ">
-            <h1 className='display-4'> Put some content here</h1>
+            <h1 className='display-4'> SKills</h1>
           </div>
           <hr />
           <div className='col-12'>

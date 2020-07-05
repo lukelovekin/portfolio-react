@@ -4,9 +4,9 @@ import React from "react";
 export default (): JSX.Element => {
   return (
     <>
-        <nav className="navbar navbar-expand-md navbar-light  sticky-top">
+      <nav className="navbar navbar-expand-md navbar-light  sticky-top ">
           <div className="container-fluid">
-            <a className="navbar-brand" href="#">Luke Lovekin</a>
+            <a className="navbar-brand" href="#">L.L</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
             <span className="navbar-toggler-icon"></span>
             </button>

@@ -8,7 +8,7 @@ export default (): JSX.Element => {
             <figure>
                 <div className="fixed-wrap" >
                     <div id="fixed">
-                        
+                       
                     </div>
                 </div>
             </figure>

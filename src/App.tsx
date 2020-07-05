@@ -6,13 +6,11 @@ import Welcome from "./components/Welcome"
 import TCS from "./components/TCS"
 import Fixed from "./components/FixedBack"
 import Hidden from "./components/Hidden"
-// import Cards from "./components/Cards"
+import Cards from "./components/Cards"
 import Projects from "./components/Projects"
 import TCS2 from "./components/TCS2"
 import Connect from "./components/Connect"
 import Footer from "./components/Footer"
-import Box from "./components/Box"
-
 
 
 import { library } from '@fortawesome/fontawesome-svg-core'
@@ -25,15 +23,16 @@ export default (): JSX.Element => {
     return (
         <>
             <Navigation/>
+            {/* <TCS/> */}
+            <Cards/>
+            <Projects/>
+            {/* <Welcome/> */}
             <Fixed/>
             {/* <Carousel/> */}
             {/* <Jumbo/> */}
-            <Box/>
-            {/* <Welcome/> */}
-            {/* <TCS/> */}
-            <Projects/>
+            {/* <Fixed /> */}
+
             {/* <Hidden/> */}
-            {/* <Cards/> */}
             {/* <TCS2/> */}
             {/* <Connect/> */}
             <Footer/>

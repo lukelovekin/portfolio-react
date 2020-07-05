@@ -1,5 +1,5 @@
 import React from "react"
-import Poo from "./images/gif/poo.gif"
+import Poo from "./images/woody.jpg"
 
 
 export default (): JSX.Element => {

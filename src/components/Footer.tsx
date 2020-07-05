@@ -6,17 +6,49 @@ export default (): JSX.Element => {
     return (
         <>
         <footer>
-        <div className='container-fluid padding'>
-            <div className='row text-center'>
-                
-                        
+ 
+                                <div className='col-12 social padding text-center' style={{ margin: "0", paddingBottom: "0" }}>
+                                    <a href="#">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <FontAwesomeIcon icon={['fab', 'facebook']} color='#c6c6c6' />
+                                    </a>
+                                    <a href="#">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <FontAwesomeIcon icon={['fab', 'twitter']} color='#c6c6c6' />
+                                    </a>
+                                    <a href="#">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <FontAwesomeIcon icon={['fab', 'google-plus-g']} color='#c6c6c6' />
+                                    </a>
+                                    <a href="#">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <FontAwesomeIcon icon={['fab', 'instagram']} color='#c6c6c6' />
+                                    </a>
+                                    <a href="#">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <FontAwesomeIcon icon={['fab', 'youtube']} color='#c6c6c6' />
+                                    </a>
+                                </div>
 
-                <div className='col-12'>
+                <div className='col-12 text-center' style={{paddingBottom: "15px"}}>
                     <hr className='light2'/>
                     <h5>&copy; Luke Lovekin</h5>
                 </div>
-            </div>
-        </div>
         </footer>
         </>
     )

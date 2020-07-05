@@ -1,7 +1,6 @@
 import React from "react";
-import bg1 from "./images/background.png"
-import bg2 from "./images/background2.png";
-import bg3 from "./images/background3.png";
+import bg1 from "./images/woody.jpg"
+
 
 
 
@@ -26,12 +25,12 @@ export default (): JSX.Element => {
             </div>
           </div>
           <div className="carousel-item">
-            <img src={bg2} className="d-block w-100" alt="..."/>
+            <img src={bg1} className="d-block w-100" alt="..."/>
             <div className="carousel-caption d-none d-md-block">
             </div>
           </div>
           <div className="carousel-item">
-            <img src={bg3} className="d-block w-100" alt="..."/>
+            <img src={bg1} className="d-block w-100" alt="..."/>
             <div className="carousel-caption d-none d-md-block">
 
             </div>

@@ -1,19 +1,11 @@
 import React from "react"
-import Pic from "./images/team1.png"
+import Pic from "./images/woody.jpg"
 
 
 export default (): JSX.Element => {
     return (
         <>
-        
-            <div className="container-fluid padding">
-                <div className="row welcome text-center">
-                    <div className='col-12'>
-                        <h1 className='display-4'>Meet the team</h1>
-                    </div>
-                    <hr className='my-4'/>
-                </div>
-            </div>
+    
 
             <div className='container-fluid padding'>
                 <div className='row padding'>

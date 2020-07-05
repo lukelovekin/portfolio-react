@@ -1,11 +1,12 @@
 import React from "react"
-import pic from "./images/desk.png"
+import pic from "./images/woody.jpg"
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 export default (): JSX.Element => {
     return (
         <>
+
             <div className='container-fluid padding'>
                 <div className='row text-center padding shadow p-3 mb-5 bg-white rounded'>
                     <div className="col-xs-12 col-sm-6 col-md-4">

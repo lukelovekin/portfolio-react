@@ -1,5 +1,5 @@
 import React from "react"
-import pic2 from "./images/bootstrap2.png"
+import pic2 from "./images/woody.jpg"
 
 export default (): JSX.Element => {
     return (

@@ -24,28 +24,28 @@ export default (): JSX.Element => {
                                     <span></span>
                                     <span></span>
                                     <span></span>
-                                    <FontAwesomeIcon icon={['fab', 'twitter']} color='#00aced' />
+                                    <FontAwesomeIcon icon={['fab', 'twitter']} color='#c6c6c6' />
                                 </a>
                                 <a href="#">
                                     <span></span>
                                     <span></span>
                                     <span></span>
                                     <span></span>
-                                    <FontAwesomeIcon icon={['fab', 'google-plus-g']} color='#dd4b39' />
+                                    <FontAwesomeIcon icon={['fab', 'google-plus-g']} color='#c6c6c6' />
                                 </a>
                                 <a href="#">
                                     <span></span>
                                     <span></span>
                                     <span></span>
                                     <span></span>
-                                    <FontAwesomeIcon icon={['fab', 'instagram']} color='#517fa4' />
+                                    <FontAwesomeIcon icon={['fab', 'instagram']} color='#c6c6c6' />
                                 </a>
                                 <a href="#">
                                     <span></span>
                                     <span></span>
                                     <span></span>
                                     <span></span>
-                                    <FontAwesomeIcon icon={['fab', 'youtube']} color='#bb0000' />
+                                    <FontAwesomeIcon icon={['fab', 'youtube']} color='#c6c6c6' />
                                 </a>
                     </div>
                 </div>

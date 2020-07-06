@@ -10,18 +10,42 @@ export default (): JSX.Element => {
             <div>
                 <div id='emoji' className='collapse'>
                     <div className='container-fluid padding'>
-                        <div className='row text-center'>
-                            <div className='col-sm-6 com-md-3 col-lg-3'>
-                                <img className='gif' src={Poo} alt=""/>
+                        <div className='row padding'>
+                            <div className='col-md-4'>
+                                <div className='card shadow p-3 mb-5 bg-white rounded'>
+                                
+                                    <div className='card-body'>
+                                        <h4 className='card-title'>Luke Love
+                                </h4>
+                                        <p>Leviosa densaugeo protego immobilus petrificus. Tarantallegra imperio unctuous crucio. Stupefy tarantallegra expecto incarcerous portus.
+                                </p>
+                                        <a href="#" className='btn btn-outline-secondary'>Check it</a>
+                                    </div>
+                                </div>
                             </div>
-                            <div className='col-sm-6 com-md-3 col-lg-3'>
-                                <img className='gif' src={Poo} alt="" />
+                            <div className='col-md-4'>
+                                <div className='card shadow p-3 mb-5 bg-white rounded'>
+                           
+                                    <div className='card-body'>
+                                        <h4 className='card-title'>Luke Love
+                                </h4>
+                                        <p>Leviosa densaugeo protego immobilus petrificus. Tarantallegra imperio unctuous crucio. Stupefy tarantallegra expecto incarcerous portus.
+                                </p>
+                                        <a href="#" className='btn btn-outline-secondary'>Check it</a>
+                                    </div>
+                                </div>
                             </div>
-                            <div className='col-sm-6 com-md-3 col-lg-3'>
-                                <img className='gif' src={Poo} alt="" />
-                            </div>
-                            <div className='col-sm-6 com-md-3 col-lg-3'>
-                                <img className='gif' src={Poo} alt="" />
+                            <div className='col-md-4'>
+                                <div className='card shadow p-3 mb-5 bg-white rounded'>
+
+                                    <div className='card-body'>
+                                        <h4 className='card-title'>Luke Love
+                                </h4>
+                                        <p>Leviosa densaugeo protego immobilus petrificus. Tarantallegra imperio unctuous crucio. Stupefy tarantallegra expecto incarcerous portus.
+                                </p>
+                                        <a href="#" className='btn btn-outline-secondary'>Check it</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

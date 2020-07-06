@@ -7,7 +7,7 @@ export default (): JSX.Element => {
         <>                
             <div className='projects container-fluid padding'>
                 <div className='row padding text-center'>
-                    <div className="box col-md-3  ">
+                    <div className="box col-md-3 ">
                         <div className='imgBx'>
                             <img src={thing} alt="pic"/>
                         </div>

@@ -2,7 +2,6 @@ import React from "react"
 import Navigation from "./components/Navigation"
 import Carousel from "./components/Carousel"
 import Jumbo from "./components/Jumbotron"
-import Welcome from "./components/Welcome"
 import TCS from "./components/TCS"
 import Fixed from "./components/FixedBack"
 import Hidden from "./components/Hidden"
@@ -23,11 +22,10 @@ export default (): JSX.Element => {
     return (
         <>
             <Navigation/>
-            {/* <TCS/> */}
-            <Cards/>
-            <Projects/>
-            {/* <Welcome/> */}
             <Fixed/>
+            {/* <TCS/> */}
+            <Projects/>
+            {/* <Cards/> */}
             {/* <Carousel/> */}
             {/* <Jumbo/> */}
             {/* <Fixed /> */}

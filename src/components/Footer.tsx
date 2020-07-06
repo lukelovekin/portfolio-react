@@ -13,7 +13,7 @@ export default (): JSX.Element => {
                                         <span></span>
                                         <span></span>
                                         <span></span>
-                                        <FontAwesomeIcon icon={['fab', 'facebook']} color='#c6c6c6' />
+                                        <FontAwesomeIcon icon={['fab', 'linkedin']} color='#c6c6c6' />
                                     </a>
                                     <a href="#">
                                         <span></span>
@@ -27,21 +27,7 @@ export default (): JSX.Element => {
                                         <span></span>
                                         <span></span>
                                         <span></span>
-                                        <FontAwesomeIcon icon={['fab', 'google-plus-g']} color='#c6c6c6' />
-                                    </a>
-                                    <a href="#">
-                                        <span></span>
-                                        <span></span>
-                                        <span></span>
-                                        <span></span>
-                                        <FontAwesomeIcon icon={['fab', 'instagram']} color='#c6c6c6' />
-                                    </a>
-                                    <a href="#">
-                                        <span></span>
-                                        <span></span>
-                                        <span></span>
-                                        <span></span>
-                                        <FontAwesomeIcon icon={['fab', 'youtube']} color='#c6c6c6' />
+                                        <FontAwesomeIcon icon={['fab', 'github']} color='#c6c6c6' />
                                     </a>
                                 </div>
 

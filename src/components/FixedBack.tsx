@@ -12,6 +12,7 @@ export default (): JSX.Element => {
                 <div className='container-fluid padding'>
                     <div className='row padding text-center'>
                         <div className=" col-lg-7  ">
+                            <h2> To be continued after I finish my MERN stack project... brb!!!</h2>
                             <h3>Hey, I'm Luke</h3>
 
                             <p> I'm an Enthusiastic, Curious and Proactive Junior Full-Stack Developer, forever learning and always open to new skills and challenges.

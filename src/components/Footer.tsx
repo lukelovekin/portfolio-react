@@ -8,21 +8,21 @@ export default (): JSX.Element => {
         <footer>
  
                                 <div className='col-12 social padding text-center' style={{ margin: "0", paddingBottom: "0" }}>
-                                    <a href="#">
+                                    <a href="https://www.linkedin.com/in/lukelovekin">
                                         <span></span>
                                         <span></span>
                                         <span></span>
                                         <span></span>
                                         <FontAwesomeIcon icon={['fab', 'linkedin']} color='#c6c6c6' />
                                     </a>
-                                    <a href="#">
+                                    <a href="https://twitter.com/LovekinLuke">
                                         <span></span>
                                         <span></span>
                                         <span></span>
                                         <span></span>
                                         <FontAwesomeIcon icon={['fab', 'twitter']} color='#c6c6c6' />
                                     </a>
-                                    <a href="#">
+                                    <a href="https://github.com/lukelovekin">
                                         <span></span>
                                         <span></span>
                                         <span></span>

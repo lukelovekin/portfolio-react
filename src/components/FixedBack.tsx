@@ -12,18 +12,29 @@ export default (): JSX.Element => {
                 <div className='container-fluid padding'>
                     <div className='row padding text-center'>
                         <div className=" col-lg-7  ">
-                                <h3 > Hi, My Name is Luke</h3>
-                                <p >I am currently a "Junior Web Dev" at Coder Academy, Brisbane, Australia, while I finish my bootcamp in programming and Diploma in IT.
-            </p>
-                                <p>
-                                    Before moving into the Tech industry I've spent the past 10 years in the construction industry where I started my first 4 years as a Carpenter, then moving into Site Supervisor roles for the other 6 years where I thoroughly exercised my problem solving, leadership and communication skills. After a lot of thought, I decided I didn't want to advance my career any further in construction so I decided to pursue my interest in Technology. With the love of problem solving and being able to build things I thought programming was the best place to start and so far it is exactly how I had hoped.
-            </p>
-                                <p>
-                                    When I'm not coding I like to keep active and love to try anything I've never done before. I'm quite energetic and I like to keep busy whether its playing AFL, exercising my dog, catching up with friends or playing a video game.
-            </p>
-            <p>
-                                                    
-            </p>
+                            <h3>Hey, I'm Luke</h3>
+
+                            <p> I'm an Enthusiastic, Curious and Proactive Junior Full-Stack Developer, forever learning and always open to new skills and challenges.
+                            </p>
+                            <p>
+                                Interests are progressing my Tech skills and trying toget amongst the Tech community. When I'm not working onmy Tech skills I frequent Tech Meetups and Hackathons,well at least as many as I have been able to sincecoming into tech.
+                            </p>
+                            <p>
+                                I have a background in Construction where I spent the first     several years as an apprentice and the latter 5+ years as Site  Supervision involving constant Management (time and people),     Leadership, Communication, Problem Solving and a Proactic   Attitude on projects from multimillion-dollar houses to 3 story   apartment blocks all around Brisbane.
+                            </p>
+                            <p>
+                                Other than that, exercising, gaming, AFL, socialising,  renovating and is always working towards something new and   challenging
+                            </p>
+                            <p>
+                                - Javascript/ Typescript, Ruby.
+                                - Html, Scss
+                                - Rails, PostgreSQL, AWS S3, Heroku
+                                - MongoDb, Express, React, NodeJs (MERN)
+                                Dabbled in:
+                                - Vue, Bootstrap
+                                To Learn List:
+                                - Python, Java, PHP, SQL and more
+                            </p>
                         </div>
                         <div className=" col-lg-5 ">
                             <img src={pic} alt="pic"/>

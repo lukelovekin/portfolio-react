@@ -23,15 +23,15 @@ export default (): JSX.Element => {
         <>
             <Navigation/>
             <Fixed/>
-            {/* <TCS/> */}
+            <TCS/>
             <Projects/>
-            {/* <Cards/> */}
-            {/* <Carousel/> */}
-            {/* <Jumbo/> */}
-            {/* <Fixed /> */}
+            <Cards/>
+            <Carousel/>
+            <Jumbo/>
+            <Fixed />
 
-            {/* <Hidden/> */}
-            {/* <TCS2/> */}
+            <Hidden/>
+            <TCS2/>
             {/* <Connect/> */}
             <Footer/>
         </>

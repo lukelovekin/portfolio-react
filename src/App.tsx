@@ -32,7 +32,7 @@ export default (): JSX.Element => {
 
             <Hidden/>
             <TCS2/>
-            {/* <Connect/> */}
+            <Connect/>
             <Footer/>
         </>
     )
